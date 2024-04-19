@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imed</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on a project With **BPI-France**
+- 🔭 I’m currently working on a project With <a href="https://www.bpifrance.fr/" target="blank">**BPI-France**</a>
 
 - 🌱 I’m currently learning **Angular, React, Vue, OWASP, JAMStack**
 
